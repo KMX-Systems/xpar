@@ -8,7 +8,7 @@ StaticLibrary {
     files: [
         "xpar.hpp",
     ]
-    cpp.cxxLanguageVersion: "c++14"
+    cpp.cxxLanguageVersion: "c++20"
     cpp.enableRtti: false
     cpp.includePaths: ["."]
 }
